@@ -1,4 +1,4 @@
-package com.bezkoder.spring.datajpa;
+package eu.mihalik.thales;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
