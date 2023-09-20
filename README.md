@@ -1,12 +1,12 @@
 # Mihalik: demo project for Thales - Building Rest CRUD API example
 
-Build
+Build:
 mvn clean install
 
-Run
+Run:
 mvn spring-boot:run
 
-Usage
+Usage:
 POST, PUT, GET and DEL requests on API
 http://localhost:8080/api/transactions
 
